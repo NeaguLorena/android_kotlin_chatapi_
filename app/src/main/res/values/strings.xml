@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Login App</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_ok">Login successful</string>
+    <string name="login_err">Login unsuccessful! Password or username incorrect</string>
+    <string name="username_empty">Username cannot be empty</string>
+    <string name="password_empty">Password cannot be empty</string>
+    <string name="username_short">Username is too short</string>
+    <string name="password_short">Password id too short</string>
+    <string name="admin">admin</string>
+    <string name="add">Add Offer</string>
+    <string name="remove">Remove Offer</string>
+    <string name="resetList">Reset List</string>
+    <string name="clearFavourites">Clear Favourite</string>
+    <string name="signOut">Sign out</string>
+    <string name="resetListMessage">List has been reset!</string>
+    <string name="addFavorite">Add to favorites</string>
+    <string name="removeFavorite">Remove for favorites</string>
+    <string name="addFavoriteMessage">Added to favorites</string>
+    <string name="removeFavoriteMessage">Removed for favorites</string>
+    <string name="alertTitle">Confirmation</string>
+    <string name="alertMessage">Please confirm log out intention ?</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="tittleAdd">Title added</string>
+    <string name="descriptionAdd">Description for the added offer.</string>
+    <string name="name">\"\"</string>
+    <string name="content">\"\"</string>
+    <string name="time">\"\"</string>
+    <string name="buttonSend">Send</string>
+    <string name="chat_with_us">Chat with us!</string>
+    <string name="design1">Design1</string>
+    <string name="design2">Design2</string>
+    <string name="both_designs">Both Designs</string>
+</resources>
